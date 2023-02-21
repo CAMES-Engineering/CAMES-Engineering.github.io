@@ -1,3 +1,6 @@
 [submodule "themes/aether"]
 	path = themes/aether
 	url = https://github.com/josephhutch/aether.git
+[submodule "themes/hugo-port"]
+	path = themes/hugo-port
+	url = https://github.com/kishaningithub/hugo-creative-portfolio-theme
