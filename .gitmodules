@@ -13,3 +13,9 @@
 [submodule "themes/mediumish-gohugo-theme"]
 	path = themes/mediumish-gohugo-theme
 	url = https://github.com/lgaida/mediumish-gohugo-theme
+[submodule "themes/hugolort"]
+	path = themes/hugolort
+	url = https://github.com/kishaningithub/hugo-creative-portfolio-theme.git
+[submodule "themes/hugolort.git"]
+	path = themes/hugolort.git
+	url = https://github.com/kishaningithub/hugo-creative-portfolio-theme
