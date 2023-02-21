@@ -5,17 +5,23 @@
     <description>Recent content on My New Hugo Site</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 21 Feb 2023 09:07:03 +0100</lastBuildDate>
     
         <atom:link href="https://cames-engineering.github.io/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
-      <title>Posts</title>
-      <link>https://cames-engineering.github.io/posts/</link>
+      <title>My First Post</title>
+      <link>https://cames-engineering.github.io/my-first-post/</link>
       <pubDate>Tue, 21 Feb 2023 09:07:03 +0100</pubDate>
       
-      <guid>https://cames-engineering.github.io/posts/</guid>
-      <description></description>
+      <guid>https://cames-engineering.github.io/my-first-post/</guid>
+      <description>blahblah</description>
+    </item><item>
+      <title>Post</title>
+      <link>https://cames-engineering.github.io/post/</link>
+      <pubDate>Tue, 21 Feb 2023 09:06:23 +0100</pubDate>
+      
+      <guid>https://cames-engineering.github.io/post/</guid>
+      <description>hej med dig</description>
     </item>
   </channel>
 </rss>
