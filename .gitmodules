@@ -7,3 +7,9 @@
 [submodule "themes/hugo-"]
 	path = themes/hugo-
 	url = https://github.com/kishaningithub/hugo-creative-portfolio-theme
+[submodule "themes/mediu,ish-gohugo-theme"]
+	path = themes/mediu,ish-gohugo-theme
+	url = https://github.com/lgaida/mediumish-gohugo-theme
+[submodule "themes/mediumish-gohugo-theme"]
+	path = themes/mediumish-gohugo-theme
+	url = https://github.com/lgaida/mediumish-gohugo-theme
