@@ -1,6 +1,3 @@
-[submodule "themes/ananke"]
-	path = themes/ananke
-	url = https://github.com/theNewDynamic/gohugo-theme-ananke
-[submodule "themes/portfolio"]
-	path = themes/portfolio
+[submodule "themes/portfol"]
+	path = themes/portfol
 	url = https://github.com/kishaningithub/hugo-creative-portfolio-theme.git
