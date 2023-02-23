@@ -8,12 +8,15 @@
     <language>en-us</language>
     <lastBuildDate>Wed, 22 Feb 2023 08:16:20 +0100</lastBuildDate><atom:link href="https://cames-engineering.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Mypost</title>
+      <title>Caps for blood pressure monitor</title>
       <link>https://cames-engineering.github.io/posts/mypost/</link>
       <pubDate>Wed, 22 Feb 2023 08:16:20 +0100</pubDate>
       
       <guid>https://cames-engineering.github.io/posts/mypost/</guid>
-      <description>Jeg kan lide kage virk nu!!</description>
+      <description>This repository contains a STL file of a mold for casting caps for blood pressure monitor. The caps prevent water from entering the cuff when washing.
+The cap fits Philips blood pressure monitors both mobile and stationary.
+The blood pressure monitor cuffs are reusable, but needs to be cleaned. The caps are placed on the tube so water can not enter the cuffs.
+Printing the molds: Print the STL file (silicone_propper.</description>
     </item>
     
   </channel>
