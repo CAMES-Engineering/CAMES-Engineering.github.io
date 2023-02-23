@@ -6,17 +6,17 @@
     <description>Recent content on Cames Engineering</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 22 Feb 2023 08:16:20 +0100</lastBuildDate><atom:link href="https://cames-engineering.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 24 Jul 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://cames-engineering.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Caps for blood pressure monitor</title>
+      <title>Here&#39;s my first post!!</title>
       <link>https://cames-engineering.github.io/posts/mypost/</link>
-      <pubDate>Wed, 22 Feb 2023 08:16:20 +0100</pubDate>
+      <pubDate>Sun, 24 Jul 2022 00:00:00 +0000</pubDate>
       
       <guid>https://cames-engineering.github.io/posts/mypost/</guid>
-      <description>This repository contains a STL file of a mold for casting caps for blood pressure monitor. The caps prevent water from entering the cuff when washing.
-The cap fits Philips blood pressure monitors both mobile and stationary.
-The blood pressure monitor cuffs are reusable, but needs to be cleaned. The caps are placed on the tube so water can not enter the cuffs.
-Printing the molds: Print the STL file (silicone_propper.</description>
+      <description>Markdown You can use Markdown format to write your story.
+Subtitle Lorem ipsum dolor sit amet consectetur adipisicing elit. Magni dolorem, laborum impedit doloremque ducimus repellat sapiente aut qui quae provident, cum vitae atque eius earum labore. Quae quod rem aliquid!
+Some list
+A b c A b c A b c </description>
     </item>
     
   </channel>
