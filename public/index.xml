@@ -1,22 +1,71 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Cames Engineering</title>
+    <title>CAMES Engineering</title>
     <link>https://cames-engineering.github.io/</link>
-    <description>Recent content on Cames Engineering</description>
+    <description>Recent content on CAMES Engineering</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 24 Jul 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://cames-engineering.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 06 Nov 2016 13:00:25 +0530</lastBuildDate><atom:link href="https://cames-engineering.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Here&#39;s my first post!!</title>
-      <link>https://cames-engineering.github.io/posts/mypost/</link>
-      <pubDate>Sun, 24 Jul 2022 00:00:00 +0000</pubDate>
+      <title>Get in touch</title>
+      <link>https://cames-engineering.github.io/kontakt/getintouch/</link>
+      <pubDate>Sun, 06 Nov 2016 13:00:25 +0530</pubDate>
       
-      <guid>https://cames-engineering.github.io/posts/mypost/</guid>
-      <description>Markdown You can use Markdown format to write your story.
-Subtitle Lorem ipsum dolor sit amet consectetur adipisicing elit. Magni dolorem, laborum impedit doloremque ducimus repellat sapiente aut qui quae provident, cum vitae atque eius earum labore. Quae quod rem aliquid!
-Some list
-A b c A b c A b c </description>
+      <guid>https://cames-engineering.github.io/kontakt/getintouch/</guid>
+      <description>When she reached the first hills of the Italic Mountains, she had a last view back on the skyline of her hometown Bookmarksgrove, the headline of Alphabet Village and the subline of her own road, the Line Lane. Pityful a rethoric question ran over her cheek, then
+Effects present letters inquiry no an removed or friends. Desire behind latter me though in. Supposing shameless am he engrossed up additions. My possible peculiar together to.</description>
+    </item>
+    
+    <item>
+      <title>About me</title>
+      <link>https://cames-engineering.github.io/omos/</link>
+      <pubDate>Sat, 05 Nov 2016 21:05:33 +0530</pubDate>
+      
+      <guid>https://cames-engineering.github.io/omos/</guid>
+      <description>An sincerity so extremity he additions. Her yet there truth merit. Mrs all projecting favourable now unpleasing. Son law garden chatty temper. Oh children provided to mr elegance marriage strongly. Off can admiration prosperous now devonshire diminution law.
+Received overcame oh sensible so at an. Formed do change merely to county it. Am separate contempt domestic to to oh. On relation my so addition branched. Put hearing cottage she norland letters equally prepare too.</description>
+    </item>
+    
+    <item>
+      <title>Caps for blood pressure monitor</title>
+      <link>https://cames-engineering.github.io/posts/bloodpressure/</link>
+      <pubDate>Sat, 05 Nov 2016 18:25:22 +0530</pubDate>
+      
+      <guid>https://cames-engineering.github.io/posts/bloodpressure/</guid>
+      <description>This project in finished and can be ordered from CAMES Engineering.
+Using blood pressure monitors the cuffs can be reused. To prevent transferring bacteria between patients it is important the cuffs are cleaned. Buying the cuffs a cap is received, but the caps easily get lost. It is not possible to buy new caps from the company without buying a new cuff as well. We made caps that prevent water from entering the cuff when washing and can be made easily and in big quantities.</description>
+    </item>
+    
+    <item>
+      <title>Patient specific bolus</title>
+      <link>https://cames-engineering.github.io/posts/earbolus/</link>
+      <pubDate>Sat, 05 Nov 2016 18:25:22 +0530</pubDate>
+      
+      <guid>https://cames-engineering.github.io/posts/earbolus/</guid>
+      <description>This project is in the process of being approved by the Danish Medicines Agency. See the project at CAMES Engineering
+When treating superficial cancer using radiation therapy a bolus is needed. The bolus is a tissue-equivalent material that increases the skin dose to target cancer cells better. The commercial bolus used at the hospital is flat sheets that do not fit the contours of a human ear and creates air gaps between the bolus and the ear.</description>
+    </item>
+    
+    <item>
+      <title>Peripheral Venous Catheter</title>
+      <link>https://cames-engineering.github.io/posts/pvc/</link>
+      <pubDate>Sat, 05 Nov 2016 18:25:22 +0530</pubDate>
+      
+      <guid>https://cames-engineering.github.io/posts/pvc/</guid>
+      <description>This project in finished and can be ordered from CAMES Engineering.
+When performing a peripheral venous catheter (PVC), it can sometimes be difficult due to anatomical challenges. One of the solutions to this is using a ultrasound guided PVC, which is more versatile and has a higher succesrate. To learn the procedure a good training course and practical phantom is needed.
+The phantom is made of ballisticgel and has three vessels, a 6 mm straight, a 3 mm straight, and a 6 mm bending vessel.</description>
+    </item>
+    
+    <item>
+      <title>Wedge for gating block</title>
+      <link>https://cames-engineering.github.io/posts/wedge/</link>
+      <pubDate>Sat, 05 Nov 2016 18:25:22 +0530</pubDate>
+      
+      <guid>https://cames-engineering.github.io/posts/wedge/</guid>
+      <description>This project in finished and can be ordered from CAMES Engineering.
+Performing 4D scannings of the respiratory system a gating block is often used. The gating block need to be perfectly leveled for the software to detect it. Levelling the gating block is difficult on the human body (chest) since it is uneven. The wedges are expensive and often gets lost during the busy days at the hospitals. To solve this problem a wedge can be used to level the gating block.</description>
     </item>
     
   </channel>
