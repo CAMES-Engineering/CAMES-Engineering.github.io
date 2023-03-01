@@ -24,5 +24,5 @@ Let it cure for 5 hours. Remove the cured silicone from the mold. Separate the c
 {{< figure src="/img/bloodpressure/BPhatte.jpg" title=" " >}}
 {{< figure src="/img/bloodpressure/bpprop.jpg" title=" " >}}
 {{< figure src="/img/bloodpressure/silikoneprop.jpg" title=" " >}}
-{{< figure src="/img/bloodpressure/moldtry.jpg" title=" " >}}
 {{< figure src="/img/bloodpressure/bpmold.jpg" title=" " >}}
+{{< figure src="/img/bloodpressure/moldblood.JPG" title=" " >}}
