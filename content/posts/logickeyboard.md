@@ -19,7 +19,8 @@ The keyboard is designed so that it is possible to "slide" the shield on from th
 
 Right now we have designed two different keyboards. A Logic Keyboard which is a regular stationary keyboard, and a Cherry Keyboard which is slightly smaller and will be easier to take with you on the go.
 
-The Cherry Keyboard can be found via this link.
+The Cherry Keyboard can be found via this link [Cherry keyboard](https://cames-engineering.github.io/posts/cherrykeyboard/).
+
 {{< figure src="/img/logickeyboard/Logic1.jpg" title=" " >}}
 {{< figure src="/img/logickeyboard/Logic2.jpg" title=" " >}}
 {{< figure src="/img/logickeyboard/Logic3.png" title=" " >}}
