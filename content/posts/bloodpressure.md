@@ -9,7 +9,7 @@ weight: 0
 *This project in finished and can be ordered from [CAMES Engineering](https://cames.dk/services/3d-print/).*  
 
 Using blood pressure monitors the cuffs can be reused. To prevent transferring bacteria between patients it is important the cuffs are cleaned. Buying the cuffs a cap is received, but the caps easily get lost. It is not possible to buy new caps from the company without buying a new cuff as well.      
-We made caps that prevent water from entering the cuff when washing and can be made easily and in big quantities. The caps are placed on the tube so water can not enter the cuffs.  
+We made caps that prevent water from entering the cuff when washing and can be made easily and in big quantities. The caps are placed on the tube so water can not enter the cuffs.   
 The cap fits Philips blood pressure monitors both mobile and stationary.  
 
 **Printing the molds**: Print the STL file (silicone_propper.stl) directly on a 3D printer in PLA to create the mold.   
