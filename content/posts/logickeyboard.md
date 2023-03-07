@@ -1,7 +1,7 @@
 ---
 showonlyimage: true
 draft: false
-image: "img/logickeyboard/Logic1.jpg"
+image: "img/logickeyboard/Logic4.jpg"
 date: "2016-11-05T18:25:22+05:30"
 title: "The Logic Keyboard"
 weight: 0

@@ -20,5 +20,9 @@ The keyboard is designed so that it is possible to "click" the shield on from th
 Right now we have designed two different keyboards. A Logic Keyboard which is a regular stationary keyboard, and a Cherry Keyboard which is slightly smaller and will be easier to take with you on the go.
 
 The Logic Keyboard can be found via this link [logic keyboard](https://cames-engineering.github.io/posts/logickeyboard/).
+
+*This project in finished and can be ordered from [CAMES Engineering](https://cames.dk/services/3d-print/).*  
+
+
 {{< figure src="/img/cherrykeyboard/Cherry1.jpg" title=" " >}}
 {{< figure src="/img/cherrykeyboard/Cherry2.jpg" title=" " >}}
